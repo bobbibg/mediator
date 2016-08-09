@@ -1,5 +1,5 @@
 {
-  "name": "mediator",
+  "name": "rbg_mediator",
   "version": "1.0.0",
   "description": "A module for implementing a mediator pattern.",
   "main": "build/mediator.js",

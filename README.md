@@ -3,7 +3,7 @@ A common js module for implementing a mediator pattern.
 
 ## Usage
 ```
-var mediator = require('@hearst/mediator');
+var mediator = require('rbg_mediator');
 
 // Publish event
 mediator.publish('event');
