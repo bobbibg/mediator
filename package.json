@@ -1,0 +1,22 @@
+{
+  "name": "mediator",
+  "version": "1.0.0",
+  "description": "A module for implementing a mediator pattern.",
+  "main": "build/mediator.js",
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertbg/mediator.git"
+  },
+  "keywords": [
+    "mediator"
+  ],
+  "author": "Rob Barns-Graham",
+  "bugs": {
+    "url": "https://github.com/robertbg/mediator/issues"
+  },
+  "license" : "UNLICENSED",
+  "homepage": "https://github.com/robertbg/mediator"
+}
