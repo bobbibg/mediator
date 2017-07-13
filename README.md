@@ -3,7 +3,7 @@ A common js module for implementing a mediator pattern.
 
 ## Usage
 ```
-var mediator = require('rbg_mediator');
+import mediator from 'PATH_TO_MODULE';
 
 // Publish event
 mediator.publish('event');
@@ -19,6 +19,3 @@ mediator.unsubscribe('event', function() {
 });
 
 ```
-
-## Requirements
-1. [Babel](https://babeljs.io/) or equivalent compiler to compile es6 for older browsers.
