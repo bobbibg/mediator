@@ -1,11 +1,8 @@
 {
-  "name": "rbg_mediator",
+  "name": "mediator",
   "version": "1.0.0",
-  "description": "A module for implementing a mediator pattern.",
-  "main": "build/mediator.js",
-  "scripts": {
-    "build": "babel src -d build"
-  },
+  "description": "A simple module for implementing a mediator pattern.",
+  "main": "mediator.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/robertbg/mediator.git"
@@ -13,10 +10,10 @@
   "keywords": [
     "mediator"
   ],
-  "author": "Rob Barns-Graham",
+  "author": "Rob Byrne-Graham",
   "bugs": {
     "url": "https://github.com/robertbg/mediator/issues"
   },
-  "license" : "UNLICENSED",
+  "license" : "MIT",
   "homepage": "https://github.com/robertbg/mediator"
 }

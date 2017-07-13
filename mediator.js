@@ -1,5 +1,3 @@
-'use strict';
-
 const mediator = {};
 
 mediator.subscribe = function subscribe(topic, callback) {
