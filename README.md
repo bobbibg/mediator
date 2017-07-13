@@ -1,5 +1,5 @@
 # Mediator
-A common js module for implementing a mediator pattern.
+A module for implementing a mediator pattern.
 
 ## Usage
 ```
